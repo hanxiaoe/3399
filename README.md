@@ -1,4 +1,4 @@
-# Android device tree for Android rk3399-mid (rk3399_mid)
+# Android device tree for Android rk3399-mid (NHG47K)
 
 ```
 #
