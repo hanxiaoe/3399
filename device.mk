@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/rockchip/NHG47K
+LOCAL_PATH := device/rockchip/rk3399_all
